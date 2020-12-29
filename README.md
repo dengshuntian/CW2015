@@ -159,5 +159,5 @@ static unsigned char cw_bat_config_info[SIZE_BATINFO] = {
 ## 5 联系方式
 
 * 维护：qinge wx:17864194640
-* 主页：https://github.com/RT-Thread-packages/sht2x
+* 主页：https://github.com/qingehao
 
